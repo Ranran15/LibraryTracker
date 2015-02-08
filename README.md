@@ -52,6 +52,7 @@ Low Priority:
 
 ==== Contributors ====
 
+<<<<<<< HEAD
 - Emily Tran (etran5)
 - Emily Chao (elchao96)
 - Xue Zou (xuezou3)
@@ -64,3 +65,11 @@ Low Priority:
 - Jenny Cheng (jrcheng3)
 - Karunya Tota (tota2)
 
+=======
+Emily Tran (etran5)
+Emily Chao (elchao96)
+Xue Zou (xuezou3)
+Angela Lin Ding (alding2)
+Eva Shih (eshih3)
+Ranran Li (rli17)
+>>>>>>> 36c8941d003d6386394aab0da2c947a16fdf65a5
